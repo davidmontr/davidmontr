@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 Olá, seja bem vindo!👋<br>Me chamo David e sou um estudante focado em desenvolvimento Back-End, mas com o objetivo de me tornar um desenvolvedor Full-Stack. Tenho 19 anos e estou sempre em busca de novas oportunidades de aprendizado e crescimento. Atualmente, estou à procura de estágio para ganhar mais experiência e me conectar com profissionais incríveis da área! 🚀<br><br>💻 Apaixonado por tecnologia e inovação<br>📚 Explorando novos desafios no desenvolvimento web<br>🌱 Sempre disposto a aprender algo novo<br>🤝 Abertura para colaborações e projetos de código aberto<br>Vamos crescer juntos! 😄
 
 
